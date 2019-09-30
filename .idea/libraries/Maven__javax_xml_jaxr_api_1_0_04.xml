@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.xml:jaxr-api:1.0_04">
+    <CLASSES>
+      <root url="jar://D:/dev/mvn_ali/javax/xml/jaxr-api/1.0_04/jaxr-api-1.0_04.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/dev/mvn_ali/javax/xml/jaxr-api/1.0_04/jaxr-api-1.0_04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/dev/mvn_ali/javax/xml/jaxr-api/1.0_04/jaxr-api-1.0_04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
